@@ -1,0 +1,9 @@
+label.badge.badge-success {
+    background-color: green;
+}
+
+.subtitle {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
